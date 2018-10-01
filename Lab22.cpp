@@ -1,7 +1,13 @@
- 
- 
 #include <iostream>
-#include <iomanip> 
+
+#include <iomanip>
+
+#include <string>
+
+#include <iostream>
+
+#include <iomanip>
+
 #include <string>
 
 using namespace std;
